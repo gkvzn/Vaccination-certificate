@@ -1,0 +1,18 @@
+					VACCIFICATE 
+		 Digital Vaccination Certificate
+		----------------------------------
+
+Name: Aswath
+Gender: Male
+Date of birth: 29.10.1999 
+Vaccination: Polio
+Date of vaccination: 18.04.2000
+Manufacturer: BioNtech
+Location: Postmunster
+Country: Germany
+QRcode: P126758
+Issued by: Bayern Government
+
+
+
+			(This document is valid without the signature)
